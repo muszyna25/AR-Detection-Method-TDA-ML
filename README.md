@@ -12,6 +12,8 @@ Grzegorz Muszynski (1,2), Karthik Kashinath (2), Vitaliy Kurlin (1), Michael Weh
 
 1) TDA_source_code.cxx contains a C++ code for computing topological feature descriptors (connected components) from snapshots of climate simulations in a threshold-free way. This code works only with TECA software (https://github.com/LBL-EESA/TECA). TECA includes all necessary external packages and libraries for this implementation.
 
+2) Preprocessing_ouput_files.py preprocesses output files of topological feature extraction in 1).
+
 2) SVM_source_code.py contains all code to train and test Support Vector Machine classifier implemented in Python scikit-learn  (https://scikit-learn.org/stable/modules/svm.html). It requires an installion of python3.5/3.6 and all necessary modules.
 
 
