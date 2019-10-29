@@ -1,7 +1,7 @@
 # AR-Detection-Method-TDA-ML
 A Working Prototype of Atmospheric River Pattern Detection Method (Topological Data Analysis + Machine Learning)
 
-Paper: "Topological Data Analysis and Machine Learning for Recognizing Atmospheric River Patterns in Large Climate Datasets"
+Paper: Muszynski, Grzegorz, et al. "Topological data analysis and machine learning for recognizing atmospheric river patterns in large climate datasets." Geoscientific Model Development 12.2 (2019): 613-628.
 
 Grzegorz Muszynski (1,2), Karthik Kashinath (2), Vitaliy Kurlin (1), Michael Wehner (2), and Prabhat (2)
 
