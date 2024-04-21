@@ -10,7 +10,7 @@ Grzegorz Muszynski (1,2), Karthik Kashinath (2), Vitaliy Kurlin (1), Michael Weh
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1) TDA_source_code.cxx contains a C++ code for computing topological feature descriptors (connected components) from snapshots of climate simulations in a threshold-free way. This code works only with TECA software (https://github.com/LBL-EESA/TECA). TECA includes all necessary external packages and libraries for this implementation.
+1) TDA_source_code.cxx contains a C++ code for computing topological feature descriptors (union-find algorithm or connected components) from snapshots of climate simulations in a threshold-free way. This code works only with TECA software (https://github.com/LBL-EESA/TECA). TECA includes all necessary external packages and libraries for this implementation.
 
 2) Preprocessing_ouput_files.py preprocesses output files of topological feature extraction in step 1).
 
